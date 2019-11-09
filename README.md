@@ -8,10 +8,8 @@ Playing with code, this example is more about fun rather than ml :)
 not as cool as Walmart AI powered store or UAV detection system, but quite simple one. 🕵️‍
 ```
 
+<img src="./in-use.gif" alt="demo :)" />
 
-<video width="800" height="450" controls autoplay >
-  <source src="./in-use.webm" >
-</video>
 
 > #საქართველო
 
